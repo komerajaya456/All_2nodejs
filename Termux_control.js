@@ -20,5 +20,3 @@ const termuxCommand = 'pwd';
 
 
 executeCommand(termuxCommand);
-
-
