@@ -18,4 +18,5 @@ const executeCommand = (command) => {
 // Example: Running the 'pkg update' command in Termux
 const termuxCommand = 'pwd';
 
+
 executeCommand(termuxCommand);
