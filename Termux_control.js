@@ -1,3 +1,4 @@
+
 const { exec } = require('child_process');
 
 // Function to execute a shell command
@@ -20,5 +21,8 @@ const termuxCommand = 'pwd';
 
 
 executeCommand(termuxCommand);
+
+
+console.log("hi")
 
 
